@@ -1,3 +1,2 @@
 require("ghoti.remap")
-print("Hello form ghoti")
-
+require("ghoti.set")
