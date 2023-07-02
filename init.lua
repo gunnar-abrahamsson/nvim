@@ -5,6 +5,5 @@ if vim.g.vscode then
     -- VSCode extension
 else
     print('ordinary neovim from init.lua')
-    require("ghoti")
     -- ordinary Neovim
 end;
