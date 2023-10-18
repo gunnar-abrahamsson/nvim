@@ -1,3 +1,3 @@
-require("ghoti.remap")
+require("ghotivs.remap")
 print("Hello form ghotivs")
 
